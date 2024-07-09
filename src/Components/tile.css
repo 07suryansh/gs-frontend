@@ -32,3 +32,7 @@
 .btn:hover{
     background-color: #42a388;
 }
+.tile-description{
+    text-align: justify;
+    padding: 4px;
+}
