@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-    <div className='heading'>Dynamic To-Do List</div>
+    <div className='heading'>Dynamic Task List</div>
       <div className="tasks">
         <Pending submit={submit} setSubmit={setSubmit}/>
         <Progress submit={submit} setSubmit={setSubmit}/>
